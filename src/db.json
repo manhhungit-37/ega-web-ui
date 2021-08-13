@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "img": "/assets/images/cactus-bag-1.png",
+      "title": "Túi Totes Cactus Bag nữ tính xành điệu",
+      "price": 320000
+    },
+    {
+      "id": 2,
+      "img": "/assets/images/cactus-bag-2.png",
+      "title": "Túi Totes Cactus Bag nữ tính xành điệu",
+      "price": 320000
+    },
+    {
+      "id": 3,
+      "img": "/assets/images/cactus-bag-3.png",
+      "title": "Túi Totes Cactus Bag nữ tính xành điệu",
+      "price": 320000
+    },
+    {
+      "id": 4,
+      "img": "/assets/images/cactus-bag-4.png",
+      "title": "Túi Totes Cactus Bag nữ tính xành điệu",
+      "price": 320000
+    }
+  ]
+}
