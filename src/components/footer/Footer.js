@@ -8,7 +8,6 @@ import iconFooter3 from 'assets/images/icon-footer-youtube.svg';
 
 function Footer() {
 
-  console.log(data);
   return (
     <div>
       <div className="text-center">
